@@ -1,4 +1,4 @@
-### Hi there, here some sample designs i made. 👋
+### Hi there, here are some sample designs i made. 👋
 
 
 ### Build-a-Survey-Form
