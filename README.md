@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-### PROJECT (Task 1): Create Product Page
+## PROJECT (Task 1): Create Product Page
 (Live Preview) ==> https://ifylyd.github.io/Product-page/
 
-# Pull Request and Commits for PROJECT (Task 1)
+#### Pull Request and Commits for PROJECT (Task 1)
 ==> Dev-180Memes/zuri-project-frontend#12
 
-# Source Code for PROJECT (Task 1)
+#### Source Code for PROJECT (Task 1)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Product%20Page
 
 
