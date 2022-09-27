@@ -4,15 +4,14 @@
 ### Build-Product-Page
 (Live Preview) ==> https://izeek.github.io/Build-Product-Page/
 
-##### Source Code for PROJECT (Task 1)
-==> https://github.com/iZeek/Build-Product-Page
+##### Source Code ==> https://github.com/iZeek/Build-Product-Page
+
 
 
 ### Flex-Box
 (Live Preview) ==> https://izeek.github.io/Flex-Box/
 
-##### Source Code for PROJECT (Task 1)
-==> https://github.com/iZeek/Flex-Box
+##### Source Code ==> https://github.com/iZeek/Flex-Box
 
 
 
