@@ -31,14 +31,19 @@
 ##### Source Code ==> https://github.com/iZeek/Build-Registration-Page
 <br>
 
+### Build-CSS-Grid
+(Live Preview) ==> https://izeek.github.io/Build-CSS-Grid/
+##### Source Code ==> https://github.com/iZeek/Build-CSS-Grid
+<br>
+
 ### Build-a-Tribute-Page
 (Live Preview) ==> https://izeek.github.io/Build-a-Tribute-Page/
 ##### Source Code ==> https://github.com/iZeek/Build-a-Tribute-Page
 <br>
 
-### Build-a-Tribute-Page
-(Live Preview) ==> https://izeek.github.io/Build-a-Tribute-Page/
-##### Source Code ==> https://github.com/iZeek/Build-a-Tribute-Page/settings/pages
+### Create-Email-Verification
+(Live Preview) ==> https://izeek.github.io/Create-Email-Verification/
+##### Source Code ==> https://github.com/iZeek/Create-Email-Verification
 <br>
 
 ### Build-a-Product-Landing-Page
