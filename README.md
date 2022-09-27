@@ -1,14 +1,19 @@
 ### Hi there 👋
 
 
-### PROJECT (Task 1): Create Product Page
-(Live Preview) ==> https://ifylyd.github.io/Product-page/
-
-##### Pull Request and Commits for PROJECT (Task 1)
-==> Dev-180Memes/zuri-project-frontend#12
+### Build-Product-Page
+(Live Preview) ==> https://izeek.github.io/Build-Product-Page/
 
 ##### Source Code for PROJECT (Task 1)
-==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Product%20Page
+==> https://github.com/iZeek/Build-Product-Page
+
+
+### Flex-Box
+(Live Preview) ==> https://izeek.github.io/Flex-Box/
+
+##### Source Code for PROJECT (Task 1)
+==> https://github.com/iZeek/Flex-Box
+
 
 
 
