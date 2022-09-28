@@ -1,6 +1,11 @@
 ### Hi there, here are some sample designs i made. 👋
 
 
+### Connect Nigeria
+(Live Preview) ==> https://izeek.github.io/Connect-Nigeria/
+##### Source Code ==> https://github.com/iZeek/Connect-Nigeria
+<br>
+
 ### Build-a-Survey-Form
 (Live Preview) ==> https://izeek.github.io/Build-a-Survey-Form/
 ##### Source Code ==> https://github.com/iZeek/Build-a-Survey-Form
